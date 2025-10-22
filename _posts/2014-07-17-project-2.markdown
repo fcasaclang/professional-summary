@@ -4,8 +4,12 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2024 to Present
+client: DLSU Manila, DPWH, EDC-Kidapawan, LPU Manila, PCMC, Pamantasang Lungsod ng Pasig (PLP)
+category: Truss, Beam, Column, Slab, Shear Wall, Foundation Analyses
+description: Created detailed engineering design of trusses including steel and timber truss designs
+Created detailed engineering design of beams and columns, including retrofit design, rebar design, carbon fiber
+reinforcement polymer application on low to mid-rise buildings
+Utilized MIDAS Gen and STAAD Foundation in foundation design retrofit design including isolated, combined, and mat
+footing analysis 
 ---
