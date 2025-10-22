@@ -6,6 +6,6 @@ img: cabin.png
 alt: image-alt
 project-date: February 2024 to Present
 client: DLSU Manila, DPWH, EDC-Kidapawan, LPU Manila, PCMC, Pamantasang Lungsod ng Pasig (PLP)
-category: Structure Design and Retrofitting
+category: Detailed Engineering Design and Retrofitting
 description: Performed structural analysis and produced detailed engineering design of Low to Mid-rise Buildings such as Structural Retrofit Plans, Design and Detailing plans, As-Found & As Built Plans in accordance with NSCP, ACI, and AISC Standards. 
 ---
