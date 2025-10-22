@@ -1,5 +1,5 @@
 # Site settings
-title: Franz Clarence Casaclang
+title: Franz Clarence Casaclang, RCE
 email: franzc.casaclang@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Engr. Franz Casaclang
   location: Location
   social: Social Media Links
   credits: Credits
@@ -52,7 +52,7 @@ address:
   - line: Quezon City, Metro Manila 1105
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Registered civil engineer with over a year of experience in structural design, skilled in STAAD Pro, MIDAS Gen, and AutoCAD. Proficient in NSCP 2015 and ACI 318 standards, with a strong background in collaborating with architects and stakeholders. Eager to apply technical expertise to infrastructure and commercial projects.'
 
 # Build settings
 markdown: kramdown
