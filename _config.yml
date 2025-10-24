@@ -54,7 +54,7 @@ address:
   - line: Quezon City, Metro Manila 1105
 
 # Credits content
-credits: 'N/A'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
