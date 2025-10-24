@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2024-11-30
-img: circus.png
+img: Assessment_Kidapawan.png
 alt: image-alt
 project-date: November 2024 to March 2025
 client: Energy Development Corporation (EDC)
