@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2025-10-17
-img: submarine.png
+img: Assessment_Firm_3.png
 alt: image-alt
 project-date: October 2025
 client: Start Bootstrap
