@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2025-04-15
-img: Assessment_Lyceum_Building_B.png
+img: Assessment_Lyceum_Section_3.png
 alt: image-alt
 project-date: April 2024 to Ongoing
 client: Lyceum of the Philippines University - Intramuros
