@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-02-06
-img: PSRRRP_Presentation.jpg
+img: Assessment_DLSU_St_La_Salle_Hall.png
 alt: image-alt
 project-date: April 2024 to Present
 client: De La Salle University 
