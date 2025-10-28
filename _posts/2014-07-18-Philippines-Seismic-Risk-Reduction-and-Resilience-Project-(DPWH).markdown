@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: June 2024 to February 2025
-img: Assessment_Kapitolyo_Pasig.png
+img: PSRRRP_Presentation.jpg
 alt: image-alt
 project-date: June 2024 to February 2025
 client: Department of Public Works and Highways (DPWH)
