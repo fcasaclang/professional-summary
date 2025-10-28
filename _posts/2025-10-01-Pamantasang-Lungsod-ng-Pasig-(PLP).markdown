@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2025-10-01
-img: safe.png
+img: Assessment_PLP_HRM.png
 alt: image-alt
 project-date: October 2025
 client: Pamantasang Lungsod ng Pasig (PLP)
