@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 98D2C0 #80B3FF
-  primary-rgb: "(32, 87, 129)" #"128,179,255"
+  primary-rgb: "32,87,129" #"128,179,255"
   secondary: 4F959D #FD6E8A
   secondary-dark: 205781 #A2122F
 
@@ -41,13 +41,13 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/franzclarencecasaclang
+  - title: whatsapp
+    url: img/whatsapp_qr_franz.jpg
   - title: instagram
     url: https://www.instagram.com/franzclarence/
   - title: medium
     url: https://www.medium.com/@franzcasaclang
   - title: github
-    url: https://www.github.com/fcasaclang
-  - title: whatsapp
     url: https://www.github.com/fcasaclang
 
 # Postal address (add as many lines as necessary)
