@@ -63,6 +63,9 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 markdown: kramdown
 permalink: pretty
 
+plugins:
+  - jekyll-sitemap
+
 #for posts
 defaults:
   - scope:
@@ -70,6 +73,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-plugins:
-  - jekyll-sitemap
