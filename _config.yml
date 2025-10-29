@@ -71,4 +71,5 @@ defaults:
     values:
       permalink: ""
 
-plugins: jekyll-sitemap
+plugins:
+  - jekyll-sitemap
