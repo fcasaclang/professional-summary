@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2024 to Present
 client: De La Salle University 
 category: Truss, Beam, Column, Slab, Analyses
-description: Created detailed engineering design of trusses including steel and timber truss designs, retrofit designs of beams and columns, rebar design, carbon fiber reinforcement polymer application on low to mid-rise buildings and utilized STAAD.Pro  
+description: Created detailed engineering design and retrofit designs of beams and columns, rebar design with the use of STAAD.Pro, carbon fiber reinforcement polymer application. I also created powerpoint presentations about the overview and status of the project. 
 ---
