@@ -7,5 +7,5 @@ alt: image-alt
 project-date: November 2024 to March 2025
 client: Energy Development Corporation (EDC)
 category: Truss, Beam, Column, and Footing Analysis
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Conducted field investigation and structural member verification to ensure if the structural integrity of the building meets the NSCP & ACI standards. Retrofittted truss, beams, columns, and footings with the use of MIDAS Gen, STAAD Foundation and spreadsheet for CFRP application method. I also applied standards of red cross for roofing design. Cooordinated closely with the project manager and architect to prepare as-found plans, detailing drawings including CFRP application. 
 ---
