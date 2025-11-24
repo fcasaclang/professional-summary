@@ -7,5 +7,5 @@ alt: image-alt
 project-date: October 2025
 client: Start Bootstrap
 category: Buckling Restrained Braced, Retrofitting Design
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Retrofitted 6 essential buildings, including buildings and laboratories. Using as-found drawings and reports I was able to perform structural analysis with the use of MIDAS Gen and STAAD Pro and retrofitted accordingly through the use of conventional methods like enlargement of members, application of CFRP, steel truss retrofit, and others. What I learned from this project is the use of Buckling Restrained Braces (BRBs) to address the story drift of the superstructure. I also produced retrofit drawings, details, and schedules as submittals for the client.
 ---
