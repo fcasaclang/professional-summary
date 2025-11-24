@@ -7,5 +7,5 @@ alt: image-alt
 project-date: February 2025 to March 2025
 client: Private Project
 category: Structural Analysis, Retrofit Design
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I was tasked to perform structural analysis of a proposed residential building using MIDAS Gen. I made use of the geotechnical report and created a design criteria based from the location of the site, architectural design, and the intended purpose of the structure. Producting a structural analysis report and calculations are the final tasks I executed for this project.
 ---
