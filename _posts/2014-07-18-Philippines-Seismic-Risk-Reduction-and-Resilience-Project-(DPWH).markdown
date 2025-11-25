@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: June 2024 to February 2025
-img: PSRRRP_Presentation.jpg
+img: Kapitolyo_H.S._VPE_BLDG_I_Retrofit_Frame_Model.png
 alt: image-alt
 project-date: June 2024 to February 2025
 client: Department of Public Works and Highways (DPWH)
