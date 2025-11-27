@@ -6,6 +6,6 @@ img: Assessment_PLP_HRM.png
 alt: image-alt
 project-date: October 2025
 client: Pamantasang Lungsod ng Pasig (PLP)
-category: Truss, Beam, Column, Slab, Shear Wall, and Foundation Analysis
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Beam, Column, and Shear Wall Analysis and Modelling
+description: Acted as support and provided structural mapping of members to senior engineers and architects as part of the key plan in creating as-found drawings.
 ---
