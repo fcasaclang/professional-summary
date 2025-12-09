@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2024-02-06
-img: submarine.png
+img: PSRRRP_Presentation.jpg
 alt: image-alt
 project-date: June 2024 to February 2025
 client: Department of Public Works and Highways (DPWH)
